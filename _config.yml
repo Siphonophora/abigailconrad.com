@@ -18,16 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Mike Conrad
+title: Abigail Conrad
 email: 
-description: >- # this means to ignore newlines until "baseurl:"
-  Taking notes in public since 2020.
-repository: "siphonophora/mjconrad.com"  
+description: 
+repository: "siphonophora/abigailconrad.com"  
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://mjconrad.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://abigailconrad.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:  siphonophora
-teaser: /images/default-teaser-500x300.png
+teaser:
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
@@ -68,10 +67,10 @@ kramdown:
 
 # Site Author
 author:
-  name             : "Mike Conrad"
-  avatar           : "/images/profile_pic.png"
-  bio              : "I’m a C# and TSQL developer who works in medical laboratory informatics. I have a particular interest in unit testing, software safety, developer productivity and code generation."
-  location         : "Boston, MA"
+  name             : "Abigail Conrad"
+  avatar           :
+  bio              : "I am an applied anthropologist with experience using mixed-methods to evaluate behavior change, farming systems, agricultural practices, food and nutrition security, and livelihoods."
+  location         : "Washington DC"
   email            :
   uri              :
   bitbucket        :
@@ -80,12 +79,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "siphonophora"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "abigail-conrad-84273953"
   pinterest        :
   soundcloud       :
   stackoverflow    :
@@ -99,26 +98,31 @@ author:
 
 defaults:
   # _posts
-  - scope:
-      path: "_posts"
-      type: posts
-    values:
-      layout: single
-      classes: wide
-      read_time: true
-      comments: true
-      share: false
-      related: true
-      show_date: true
-      words_per_minute: 150
-      author_profile: true
+  # - scope:
+  #     path: "_posts"
+  #     type: posts
+  #   values:
+  #     layout: single
+  #     classes: wide
+  #     read_time: true
+  #     comments: true
+  #     share: false
+  #     related: true
+  #     show_date: true
+  #     words_per_minute: 150
+  #     author_profile: true
   # _pages
   - scope:
       path: "_pages"
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
+
+collections:
+  portfolio:
+    output: true
+    permalink: /test/
 
 # Reading Files
 include:

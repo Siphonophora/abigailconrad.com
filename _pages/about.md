@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
-I’m a C# and TSQL developer who works in medical laboratory informatics. I have a particular interest in unit testing, software safety, developer productivity and code generation.
+Abigail is an applied anthropologist with an interest in agriculture, food security, and nutrition. She earned a PhD in anthropology in 2014 from American University and completed a permaculture design course in 2012. 
 
-If you want to reach out to me (until I get a contact form setup), create an issue [here](https://github.com/Siphonophora/mjconrad.com).
+She conducted her doctoral research with a local research team on the impacts of permaculture among smallholder farmers in central Malawi. The content of this website is based on this research to share what they learned about permaculture in Malawi. 
+
+Connect on [LinkedIn](http://www.linkedin.com/pub/abigail-conrad/53/739/842/)
