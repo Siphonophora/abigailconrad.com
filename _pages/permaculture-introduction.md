@@ -2,6 +2,8 @@
 layout: single
 title: What Is Permaculture?
 permalink: /permaculture-introduction/
+sidebar:
+  nav: "docs"
 ---
 
 <figure class="align-center">

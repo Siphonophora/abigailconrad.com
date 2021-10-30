@@ -1,5 +1,32 @@
 main:
   - title: "Home"
     url: /
+  - title: "Permaculture"
+    url: /permaculture-introduction/    
   - title: "About"
     url: /about/
+
+docs:
+  - title: Permaculture
+    children:
+      - title: "Permaculture Introduction"
+        url: /permaculture-introduction/    
+      - title: "Resources"
+        url: /resources/
+      - title: "Organizations & Projects in Malawi"
+        url: /permaculture-organizations-in-malawi/
+
+  - title: Permaculture Research
+    children:
+      - title: "Research in Malawi"
+        url: /permaculture-research-in-malawi/
+      - title: "Permaculture in Malawi"
+        url: /permaculture-in-malawi/
+      - title: "Findings Infographics"
+        url: /research-findings-infographic/
+      - title: "Lessons for Permaculture Programs"
+        url: /lessons-for-permaculture-programs/
+      - title: "Publications"
+        url: /publications/
+      - title: "Permaculture Adoption Rubric"
+        url: /permaculture-adoption-rubric/
