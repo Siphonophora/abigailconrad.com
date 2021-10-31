@@ -2,6 +2,8 @@
 layout: single
 title: Gallery of Permaculture in Malawi
 permalink: /permaculture-in-malawi/
+sidebar:
+  nav: "permaculture-research"
 ---
 
 <figure class="align-center">

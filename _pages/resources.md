@@ -2,6 +2,8 @@
 layout: single
 title: About
 permalink: /resources/
+sidebar:
+  nav: "permaculture"
 ---
 
 # PERMACULTURE RESEARCH

@@ -2,6 +2,8 @@
 layout: single
 title: Permaculture Adoption Rubric
 permalink: /permaculture-adoption-rubric/
+sidebar:
+  nav: "permaculture-research"
 ---
 
 ## What is the rubric? 
@@ -36,6 +38,6 @@ I think that this rubric could be adapted and used to assess permaculture practi
 
 Feel free to contact me if you have questions or would like more information.
 
- 
+ <hr>
 
 [1] The scale was validated using Cronbach’s alpha test, which measures the internal consistency of scales or the extent to which all items in a test or scale measure the same concept. The permaculture practice scale was found to be highly internally consistent (alpha=0.907). The permaculture practice score was not correlated with physical capital, perceived assistance within their social network, household size, age of household head, or type of land ownership, showing that it does not function as a proxy measure of, or skewed by, these household characteristics and resource access.

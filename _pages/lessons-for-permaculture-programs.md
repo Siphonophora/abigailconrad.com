@@ -2,6 +2,8 @@
 layout: single
 title: Lessons for Permaculture Programs
 permalink: /lessons-for-permaculture-programs/
+sidebar:
+  nav: "permaculture-research"
 ---
 
 I developed six primary lessons for permaculture programs in Malawi and similar contexts based on research with two permaculture organizations, 16 smallholder households who practice permaculture, and 24 smallholder households who practice conventional agriculture in Malawi.

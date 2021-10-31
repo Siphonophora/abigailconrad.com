@@ -2,6 +2,8 @@
 layout: single
 title: Organizations & Projects in Malawi
 permalink: /permaculture-organizations-in-malawi/
+sidebar:
+  nav: "permaculture"
 ---
 
 Permaculture was introduced in Malawi at least beginning in the early-1990s. Since then, there have been at least 16 organizations whose personnel received permaculture training, 27 projects with a permaculture component, and 11 permaculture organizations. 

@@ -1,12 +1,12 @@
 main:
-  - title: "Home"
-    url: /
   - title: "Permaculture"
-    url: /permaculture-introduction/    
+    url: /permaculture-introduction/
+  - title: "Permaculture Research"
+    url: /permaculture-research-in-malawi/        
   - title: "About"
     url: /about/
 
-docs:
+permaculture:
   - title: Permaculture
     children:
       - title: "Permaculture Introduction"
@@ -16,6 +16,7 @@ docs:
       - title: "Organizations & Projects in Malawi"
         url: /permaculture-organizations-in-malawi/
 
+permaculture-research:
   - title: Permaculture Research
     children:
       - title: "Research in Malawi"
