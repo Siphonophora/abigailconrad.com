@@ -34,7 +34,7 @@ I owe a special thanks to:
 ## Research Methods
 
 * Research team
-    * Geoffrey Mlongoti, Chisomo Kamchacha, and Enock Chiteka
+    * Geoffrey Mlongoti, Chisomo Kamchacha, and Enock Chitheka
 * Research participants
     * 16 permaculture farmer households
         * Defined as: (1) self-identify as practicing permaculture; (2) exposure to demonstrations or information about permaculture from an NGO; and (3) intentional use of multiple permaculture practices in one place.
